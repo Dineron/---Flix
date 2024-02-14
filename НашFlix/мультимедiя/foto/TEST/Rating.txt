@@ -1,0 +1,6 @@
+{
+	"dziesięć":{
+		"Rate": 1},
+	"Jegen":{
+		"Rate": 10}
+}
